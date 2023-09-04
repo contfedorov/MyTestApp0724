@@ -4086,6 +4086,10 @@ expo-modules-core@1.5.10:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
+"expo-web-view@https://github.com/contfedorov/expo-web-view#change-import-viewprops":
+  version "0.1.0"
+  resolved "https://github.com/contfedorov/expo-web-view#4b0d3275561cc215c01b0577733e730f7728d1ae"
+
 expo@^49.0.0:
   version "49.0.8"
   resolved "https://registry.yarnpkg.com/expo/-/expo-49.0.8.tgz#97e2ffcf239326898a3b803394e069f7df7a381e"
